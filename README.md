@@ -1,2 +1,2 @@
 # soot-workbench
-Repository for testing potential new optimizations rules for the soot java optimizer
+Repository for testing potential new rules for the Soot java optimizer
